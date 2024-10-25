@@ -26,7 +26,7 @@ Prerequisites
 
 Clone the repository:
 
-git clone https://github.com/yourusername/tv-sales-prediction.git
+https://github.com/Sadafkhan97/TV-Advertising-Spend-vs.-Sales-Prediction
 
 Install the required libraries:
 
